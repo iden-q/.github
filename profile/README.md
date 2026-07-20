@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="assets/logo.svg" alt="IdenQ logo" width="120" />
+
+<br/>
+<br/>
+
 <img src="assets/banner.svg" alt="IdenQ — Quantum-Safe Security" width="100%" />
 
 <br/>
@@ -68,6 +73,14 @@ Our open source principles:
 ![AES-256](https://img.shields.io/badge/AES--256-hybrid_mode-38bdf8?style=flat-square&labelColor=0a1230)
 
 </div>
+
+## 📊 Coding activity
+
+Time invested in building our quantum-safe stack, tracked with [WakaTime](https://wakatime.com/):
+
+[![wakatime](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/6534d832-322f-4577-a675-28cccae34a3d.svg)](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/6534d832-322f-4577-a675-28cccae34a3d)
+[![wakatime](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/cd537a70-d7b1-43d9-a957-bfc53f02f17f.svg)](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/cd537a70-d7b1-43d9-a957-bfc53f02f17f)
+[![wakatime](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/d1590f69-1d7e-4fbd-a243-daed658c0f49.svg)](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/d1590f69-1d7e-4fbd-a243-daed658c0f49)
 
 ## 🤝 Get involved
 
