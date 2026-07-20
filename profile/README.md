@@ -1,14 +1,11 @@
 <div align="center">
 
-<img src="assets/logo.svg" alt="IdenQ logo" width="120" />
+<img src="assets/logo.png" alt="IdenQ — Quantum-Safe Security" width="100%" />
 
 <br/>
 <br/>
 
-<img src="assets/banner.svg" alt="IdenQ — Quantum-Safe Security" width="100%" />
-
-<br/>
-<br/>
+### Post-Quantum Cybersecurity
 
 **We build cryptography that outlives the quantum threat.**
 <br/>
@@ -16,10 +13,10 @@ Hybrid classical + post-quantum protection for the assets and identities that ma
 
 <br/>
 
-[![Website](https://img.shields.io/badge/idenq.io-visit-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a1230)](https://idenq.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-818cf8?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=&labelColor=0a1230)](https://www.linkedin.com/company/iden-q)
-[![Post-Quantum](https://img.shields.io/badge/NIST_PQC-ML--KEM_·_ML--DSA-c084fc?style=for-the-badge&labelColor=0a1230)](https://csrc.nist.gov/projects/post-quantum-cryptography)
-[![Made in Spain](https://img.shields.io/badge/made_in-Spain_🇪🇸-f8fafc?style=for-the-badge&labelColor=0a1230)](https://idenq.io/)
+[![Website](https://img.shields.io/badge/idenq.io-visit-f5d94b?style=for-the-badge&logo=googlechrome&logoColor=0a1a55&labelColor=0a1a55)](https://idenq.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-47bfff?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=&labelColor=0a1a55)](https://www.linkedin.com/company/iden-q)
+[![Post-Quantum](https://img.shields.io/badge/NIST_PQC-ML--KEM_·_ML--DSA-863bff?style=for-the-badge&labelColor=0a1a55)](https://csrc.nist.gov/projects/post-quantum-cryptography)
+[![Made in Spain](https://img.shields.io/badge/made_in-Spain_🇪🇸-f8fafc?style=for-the-badge&labelColor=0a1a55)](https://idenq.io/)
 
 </div>
 
@@ -67,10 +64,10 @@ Our open source principles:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 &nbsp;·&nbsp;
-![ML-KEM](https://img.shields.io/badge/ML--KEM-FIPS_203-c084fc?style=flat-square&labelColor=0a1230)
-![ML-DSA](https://img.shields.io/badge/ML--DSA-FIPS_204-818cf8?style=flat-square&labelColor=0a1230)
-![ZKP](https://img.shields.io/badge/Zero--Knowledge_Proofs-22d3ee?style=flat-square&labelColor=0a1230)
-![AES-256](https://img.shields.io/badge/AES--256-hybrid_mode-38bdf8?style=flat-square&labelColor=0a1230)
+![ML-KEM](https://img.shields.io/badge/ML--KEM-FIPS_203-863bff?style=flat-square&labelColor=0a1a55)
+![ML-DSA](https://img.shields.io/badge/ML--DSA-FIPS_204-47bfff?style=flat-square&labelColor=0a1a55)
+![ZKP](https://img.shields.io/badge/Zero--Knowledge_Proofs-f5d94b?style=flat-square&labelColor=0a1a55)
+![AES-256](https://img.shields.io/badge/AES--256-hybrid_mode-47bfff?style=flat-square&labelColor=0a1a55)
 
 </div>
 
@@ -99,6 +96,8 @@ We're just getting started in the open — and we'd love company on the way:
 
 <br/>
 
-<sub>⚛️ **IdenQ** — Your crypto protected for life. And beyond.</sub>
+<img src="assets/icon.svg" alt="IdenQ" width="26" />
+
+<sub>**IdenQ** — Your crypto protected for life. And beyond.</sub>
 
 </div>
