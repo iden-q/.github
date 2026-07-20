@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="IdenQ — Quantum-Safe Security" width="100%" />
+<img src="assets/banner.svg" alt="IdenQ — Quantum-Safe Security" width="100%" />
 
 <br/>
 <br/>
