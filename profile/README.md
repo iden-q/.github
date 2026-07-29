@@ -81,6 +81,11 @@ Time invested in building our quantum-safe stack, tracked with [WakaTime](https:
 [![wakatime](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/6534d832-322f-4577-a675-28cccae34a3d.svg)](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/6534d832-322f-4577-a675-28cccae34a3d)
 [![wakatime](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/cd537a70-d7b1-43d9-a957-bfc53f02f17f.svg)](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/cd537a70-d7b1-43d9-a957-bfc53f02f17f)
 [![wakatime](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/d1590f69-1d7e-4fbd-a243-daed658c0f49.svg)](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/d1590f69-1d7e-4fbd-a243-daed658c0f49)
+[![wakatime](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/87cecdff-324f-4419-8979-6471d8b565f6.svg)](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/87cecdff-324f-4419-8979-6471d8b565f6)
+[![wakatime](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/92231ad5-8a24-4043-8da0-5028322771a6.svg)](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/92231ad5-8a24-4043-8da0-5028322771a6)
+[![wakatime](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/fc19b59c-bf5b-4505-be07-ef8bbc4dd248.svg)](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/fc19b59c-bf5b-4505-be07-ef8bbc4dd248)
+[![wakatime](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/41cb6cb4-19a1-4f97-8359-af2f53c8ac31.svg)](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/41cb6cb4-19a1-4f97-8359-af2f53c8ac31)
+[![wakatime](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/469e04f7-56c8-451b-94d8-61006a8f0aaf.svg)](https://wakatime.com/badge/user/ba59fa6c-905e-4fed-8cda-c52aa970baee/project/469e04f7-56c8-451b-94d8-61006a8f0aaf)
 
 ## 🤝 Get involved
 
